@@ -1,6 +1,7 @@
 #############################################
 # ***      Hob0's Rules for Conquest    *** #
-# ***          Updated: 2/10/16         *** #
+# ***          Updated: 11.09.2020      *** #
+# ***          Including: 2015-2025     *** #
 #############################################
 :
 c
@@ -28748,9 +28749,38 @@ c sa@so0si1se3su4
 c so0 si1 se3 ss$ sa@
 c so0 si1 se3 ss$ sa@ $!
 c so0 si1 se3 ss$ sa@ $1 $5
+c so0 si1 se3 ss$ sa@ $1 $6
+c so0 si1 se3 ss$ sa@ $1 $7
+c so0 si1 se3 ss$ sa@ $1 $8
+c so0 si1 se3 ss$ sa@ $1 $9
+c so0 si1 se3 ss$ sa@ $2 $0
+c so0 si1 se3 ss$ sa@ $2 $1
+c so0 si1 se3 ss$ sa@ $2 $2
+c so0 si1 se3 ss$ sa@ $2 $3
+c so0 si1 se3 ss$ sa@ $2 $4
+c so0 si1 se3 ss$ sa@ $2 $5
 c so0 si1 se3 ss$ sa@ $2 $0 $1 $5
 c so0 si1 se3 ss$ sa@ $2 $0 $1 $6
+c so0 si1 se3 ss$ sa@ $2 $0 $1 $7
+c so0 si1 se3 ss$ sa@ $2 $0 $1 $8
+c so0 si1 se3 ss$ sa@ $2 $0 $1 $9
+c so0 si1 se3 ss$ sa@ $2 $0 $2 $0
+c so0 si1 se3 ss$ sa@ $2 $0 $2 $1
+c so0 si1 se3 ss$ sa@ $2 $0 $2 $2
+c so0 si1 se3 ss$ sa@ $2 $0 $2 $3
+c so0 si1 se3 ss$ sa@ $2 $0 $2 $4
+c so0 si1 se3 ss$ sa@ $2 $0 $2 $5
+c so0 si1 se3 ss$ sa@ $2 $0 $1 $5 $!
 c so0 si1 se3 ss$ sa@ $2 $0 $1 $6 $!
+c so0 si1 se3 ss$ sa@ $2 $0 $1 $7 $!
+c so0 si1 se3 ss$ sa@ $2 $0 $1 $8 $!
+c so0 si1 se3 ss$ sa@ $2 $0 $1 $9 $!
+c so0 si1 se3 ss$ sa@ $2 $0 $2 $0 $!
+c so0 si1 se3 ss$ sa@ $2 $0 $2 $1 $!
+c so0 si1 se3 ss$ sa@ $2 $0 $2 $2 $!
+c so0 si1 se3 ss$ sa@ $2 $0 $2 $3 $!
+c so0 si1 se3 ss$ sa@ $2 $0 $2 $4 $!
+c so0 si1 se3 ss$ sa@ $2 $0 $2 $5 $!
 c ^5 ^1 ^0 ^2 so0 si1 se3 ss$ sa@ 
 c ^6 ^1 ^0 ^2 so0 si1 se3 ss$ sa@ 
 c ^0
@@ -28774,7 +28804,8 @@ c ^*
 c ^?
 #############################################
 # ***      Hob0's Rules for Conquest    *** #
-# ***          Updated: 2/10/16         *** #
+# ***          Updated: 11.09.2020      *** #
+# ***          Including: 2015-2025     *** #
 #############################################
 :
 c
@@ -57522,11 +57553,49 @@ sa@so0si1se3su4
 so0 si1 se3 ss$ sa@
 so0 si1 se3 ss$ sa@ $!
 so0 si1 se3 ss$ sa@ $1 $5
+so0 si1 se3 ss$ sa@ $1 $6
+so0 si1 se3 ss$ sa@ $1 $7
+so0 si1 se3 ss$ sa@ $1 $8
+so0 si1 se3 ss$ sa@ $1 $9
+so0 si1 se3 ss$ sa@ $2 $0
+so0 si1 se3 ss$ sa@ $2 $1
+so0 si1 se3 ss$ sa@ $2 $2
+so0 si1 se3 ss$ sa@ $2 $3
+so0 si1 se3 ss$ sa@ $2 $4
+so0 si1 se3 ss$ sa@ $2 $5
 so0 si1 se3 ss$ sa@ $2 $0 $1 $5
 so0 si1 se3 ss$ sa@ $2 $0 $1 $6
+so0 si1 se3 ss$ sa@ $2 $0 $1 $7
+so0 si1 se3 ss$ sa@ $2 $0 $1 $8
+so0 si1 se3 ss$ sa@ $2 $0 $1 $9
+so0 si1 se3 ss$ sa@ $2 $0 $2 $0
+so0 si1 se3 ss$ sa@ $2 $0 $2 $1
+so0 si1 se3 ss$ sa@ $2 $0 $2 $2
+so0 si1 se3 ss$ sa@ $2 $0 $2 $3
+so0 si1 se3 ss$ sa@ $2 $0 $2 $4
+so0 si1 se3 ss$ sa@ $2 $0 $2 $5
+so0 si1 se3 ss$ sa@ $2 $0 $1 $5 $!
 so0 si1 se3 ss$ sa@ $2 $0 $1 $6 $!
-^5 ^1 ^0 ^2 so0 si1 se3 ss$ sa@ 
-^6 ^1 ^0 ^2 so0 si1 se3 ss$ sa@ 
+so0 si1 se3 ss$ sa@ $2 $0 $1 $7 $!
+so0 si1 se3 ss$ sa@ $2 $0 $1 $8 $!
+so0 si1 se3 ss$ sa@ $2 $0 $1 $9 $!
+so0 si1 se3 ss$ sa@ $2 $0 $2 $0 $!
+so0 si1 se3 ss$ sa@ $2 $0 $2 $1 $!
+so0 si1 se3 ss$ sa@ $2 $0 $2 $2 $!
+so0 si1 se3 ss$ sa@ $2 $0 $2 $3 $!
+so0 si1 se3 ss$ sa@ $2 $0 $2 $4 $!
+so0 si1 se3 ss$ sa@ $2 $0 $2 $5 $!
+^5 ^1 ^0 ^2 so0 si1 se3 ss$ sa@
+^6 ^1 ^0 ^2 so0 si1 se3 ss$ sa@
+^7 ^1 ^0 ^2 so0 si1 se3 ss$ sa@
+^8 ^1 ^0 ^2 so0 si1 se3 ss$ sa@
+^9 ^1 ^0 ^2 so0 si1 se3 ss$ sa@
+^0 ^2 ^0 ^2 so0 si1 se3 ss$ sa@
+^1 ^2 ^0 ^2 so0 si1 se3 ss$ sa@
+^2 ^2 ^0 ^2 so0 si1 se3 ss$ sa@
+^3 ^2 ^0 ^2 so0 si1 se3 ss$ sa@
+^4 ^2 ^0 ^2 so0 si1 se3 ss$ sa@
+^5 ^2 ^0 ^2 so0 si1 se3 ss$ sa@
 ^0
 ^1
 ^2
